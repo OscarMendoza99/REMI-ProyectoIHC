@@ -4,9 +4,9 @@ Este repositorio contienen el Avance Parcial del Proyecto del curso de Interacci
 
 ## Authors
 
-* **Marquez Choque, Patrick Xavier** - *San Pablo Catholic University* - [GitHub](https://github.com/patrick03524)
-* **Diez Canseco Fuentes, Iñigo Manuel** - *San Pablo Catholic University* - [GitHub](https://github.com/inigomanuel)
-* **Mendoza Alejandro, Oscar Andree** - *San Pablo Catholic University* - [GitHub](https://github.com/OscarMendoza99)
+* **Marquez Choque, Patrick Xavier** - *Universidad Católica San Pablo* - [GitHub](https://github.com/patrick03524)
+* **Diez Canseco Fuentes, Iñigo Manuel** - *Universidad Católica San Pablo* - [GitHub](https://github.com/inigomanuel)
+* **Mendoza Alejandro, Oscar Andree** - *Universidad Católica San Pablo* - [GitHub](https://github.com/OscarMendoza99)
 
 ## Descripción
 
