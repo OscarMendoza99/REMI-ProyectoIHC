@@ -12,7 +12,7 @@ Este repositorio contienen el Avance Parcial del Proyecto del curso de Interacci
 
 La idea de este trabajo es poder utilizar el conocimiento de realidad aumentada y poder utilizarlo para un objetivo claro, el cual seria un proyecto educativo e interactivo para los más jóvenes de la casa y así también poder enseñarles que tan genial puede ser el mundo interactivo fuera de las computadoras normales.Utilizando el lenguaje Python buscaremos cumplir con el objetivo de poder realizar una aplicación interactiva para niños pequeños y que puedan aprender con dinámicas psicomotrices.
 
-Es necesario la utilización de una librería que funcione como un motor gráfico para las interfaces y el ambiente de nuestra aplicación. También es necesario la utilización de librerías de Realidad aumentada y aprendizaje profundo para el reconocimiento de las manos necesario para este proyecto.
+Es necesario la utilización de una librería que funcione como un motor gráfico para las interfaces y el ambiente de nuestra aplicación. También es necesario la utilización de librerías de realidad aumentada y aprendizaje profundo para el reconocimiento de las manos necesario para este proyecto.
 
 ## Requisitos
 
